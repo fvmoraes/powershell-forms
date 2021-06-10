@@ -67,7 +67,7 @@ $itensSI = @(
 $itensMarketData = @(
 	'Window 1'
 	'Window 2'
-	'Window 2''
+	'Window 2'
 )
 
 $itensRoteamento = @(
