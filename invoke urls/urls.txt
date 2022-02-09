@@ -1,0 +1,17 @@
+[[*]] MyList
+
+[[*]] Browser's
+https://www.google.pt/intl/pt-PT/chrome/
+https://www.mozilla.org/pt-BR/firefox/new/
+https://www.torproject.org/download/
+
+[[*]] DevOps Tools
+https://www.docker.com/
+https://www.terraform.io/
+https://kubernetes.io/
+https://www.ansible.com/
+
+[[*]] Sample URLs
+https://github.com/fvmoraes
+https://gitlab.com/fvmoraes
+https://www.linkedin.com/in/fvmoraes/
